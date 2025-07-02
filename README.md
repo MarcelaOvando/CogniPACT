@@ -1,13 +1,19 @@
 # CogniPACT
 
-/This repository contains the scripts used for the creation of Cognipact and all analyses reported in the manuscript. 
-/Specifically, you will find:
+This repository contains the scripts used for the creation of Cognipact and all analyses reported in the manuscript. 
 
-/Scripts to create UMAP embeddings from the group-level temporal variation series of white matter voxels.
-/Scripts to perform HDBSCAN clustering on the UMAP embeddings.
-/Scripts to generate null (randomized) UMAP embeddings for statistical comparison.
-/Scripts to calculate Euclidean distance matrices from UMAP embeddings and compare spatial distributions.
-/Scripts to generate random parcellations and calculate the homogeneity scores.
-/Scripts to build the morphospace of white matter functional organization.
+Specifically, you will find:
 
-/All scripts include comments and instructions to facilitate replication and further exploration.
+Scripts to create UMAP embeddings from the group-level temporal variation series of white matter voxels.
+
+Scripts to perform HDBSCAN clustering on the UMAP embeddings.
+
+Scripts to generate null (randomized) UMAP embeddings for statistical comparison.
+
+Scripts to calculate Euclidean distance matrices from UMAP embeddings and compare spatial distributions.
+
+Scripts to generate random parcellations and calculate the homogeneity scores.
+
+Scripts to build the morphospace of white matter functional organization.
+
+All scripts include comments and instructions to facilitate replication and further exploration.
