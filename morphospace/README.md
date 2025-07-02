@@ -10,7 +10,7 @@ This repository contains the data and scripts for building the white matter cogn
 
 Includes the scripts, input data, and resulting output files used to generate the cognitive morphospace from term-based brain maps. 
 
-Note that, Nifi files to create the morphospace are available in Neurovault : https://neurovault.org/collections/19566/
+Note that the folowwing Nifi files to create the morphospace are available in Neurovault : https://neurovault.org/collections/19566/
 
 - `Images/` – NIfTI files for 506 cognitive terms (from Neurosynth) projected to the white matter
 - `ROI2mm/` – Binary parcels for association and commissural parcellations
