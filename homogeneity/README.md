@@ -1,6 +1,7 @@
-Overview
 
-This folder contains scripts used for analyzing the homogeneity of brain parcels based on functional data. The folder includes:
+# This folder contains scripts used for analyzing the homogeneity of our brain parcellations. 
+
+The folder contains :
 
 -Extracting t-values from each parcel from NIfTI files (extract_parcel_timeseries.py)
 
