@@ -4,16 +4,16 @@ This repository contains the scripts used for the creation of Cognipact and all 
 
 Specifically, you will find:
 
-Scripts to create UMAP embeddings from the group-level temporal variation series of white matter voxels.
+- Scripts to create UMAP embeddings from the group-level temporal variation series of white matter voxels.
 
-Scripts to perform HDBSCAN clustering on the UMAP embeddings.
+- Scripts to perform HDBSCAN clustering on the UMAP embeddings.
 
-Scripts to generate null (randomized) UMAP embeddings for statistical comparison.
+- Scripts to generate null (randomized) UMAP embeddings for statistical comparison.
 
-Scripts to calculate Euclidean distance matrices from UMAP embeddings and compare spatial distributions.
+- Scripts to calculate Euclidean distance matrices from UMAP embeddings and compare spatial distributions.
 
-Scripts to generate random parcellations and calculate the homogeneity scores.
+- Scripts to generate random parcellations and calculate the homogeneity scores.
 
-Scripts to build the morphospace of white matter functional organization.
+- Scripts to build the morphospace of white matter functional organization.
 
 All scripts include comments and instructions to facilitate replication and further exploration.
