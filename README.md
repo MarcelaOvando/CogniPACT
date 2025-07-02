@@ -2,7 +2,7 @@
 
 This repository contains the scripts used for the creation of Cognipact and all analyses reported in the manuscript: 
 
-# Unveiling the functional specialisation of human circuits with naturalistic stimuli (Ovando-Tellez M., Foulon C, Nozais V.,Pacella V. & Thiebaut de Schotten M.)
+Unveiling the functional specialisation of human circuits with naturalistic stimuli (Ovando-Tellez M., Foulon C, Nozais V.,Pacella V. & Thiebaut de Schotten M.
 
 Specifically, you will find:
 
