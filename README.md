@@ -1,4 +1,4 @@
-# CogniPACT
+# Cognitive Parcellation of Association and Commissural Tracts - Cognipact
 
 This repository contains the scripts used for the creation of Cognipact and all analyses reported in the manuscript. 
 
